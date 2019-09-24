@@ -1,0 +1,8 @@
+print("i will now count my chickens:")
+print(2**2)
+print(4+3)
+print(7^2)
+print(5-3)
+print(6%2)
+print(8//2)
+print(4/2)
